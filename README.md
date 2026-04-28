@@ -34,3 +34,11 @@ git clone https://github.com/yourusername/drishyam-ai-cctv
 cd drishyam-ai-cctv
 pip install -r requirements.txt
 python app.py
+
+---
+
+# ⚡ **6. HOW TO RUN (IMPORTANT)**
+
+```bash
+pip install -r requirements.txt
+python app.py
